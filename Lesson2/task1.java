@@ -6,8 +6,6 @@ Your input is not a float number. Please, try again.
 и возвращает специальное значение Float.NaN, чтобы обозначить ошибку.
  */
 
-package Lesson2;
-
 public class task1 {
     class IsFloat {
         public static float isFloat(String input) {

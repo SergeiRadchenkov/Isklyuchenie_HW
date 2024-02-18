@@ -4,8 +4,6 @@
 Также программа проверяет, равен ли делитель d нулю, и если да, выводит соответствующее сообщение.
  */
 
-package Lesson2;
-
 import java.util.Arrays;
 
 public class task2 {
